@@ -7,7 +7,6 @@ window.onload = function() {
 	}
 	var icons = {
 			'icon-view' : '&#x76;&#x69;&#x65;&#x77;',
-			'icon-upload' : '&#x75;&#x70;&#x6c;&#x6f;&#x61;&#x64;',
 			'icon-up' : '&#x75;&#x70;',
 			'icon-trash' : '&#x74;&#x72;&#x61;&#x73;&#x68;',
 			'icon-star' : '&#x73;&#x74;&#x61;&#x72;',
@@ -17,7 +16,6 @@ window.onload = function() {
 			'icon-mail' : '&#x6d;&#x61;&#x69;&#x6c;',
 			'icon-link' : '&#x6c;&#x69;&#x6e;&#x6b;',
 			'icon-left' : '&#x6c;&#x65;&#x66;&#x74;',
-			'icon-download' : '&#x64;&#x6f;&#x77;&#x6e;&#x6c;&#x6f;&#x61;&#x64;',
 			'icon-down' : '&#x64;&#x6f;&#x77;&#x6e;',
 			'icon-home' : '&#x68;&#x6f;&#x6d;&#x65;',
 			'icon-comment' : '&#x63;&#x6f;&#x6d;&#x6d;&#x65;&#x6e;&#x74;',
@@ -26,7 +24,9 @@ window.onload = function() {
 			'icon-chat' : '&#x63;&#x68;&#x61;&#x74;',
 			'icon-cancel' : '&#x63;&#x61;&#x6e;&#x63;&#x65;&#x6c;',
 			'icon-add' : '&#x61;&#x64;&#x64;',
-			'icon-save' : '&#x73;&#x61;&#x76;&#x65;',
+			'icon-download' : '&#x64;&#x6f;&#x77;&#x6e;&#x6c;&#x6f;&#x61;&#x64;',
+			'icon-upload' : '&#x75;&#x70;&#x6c;&#x6f;&#x61;&#x64;',
+			'icon-search' : '&#x73;&#x65;&#x61;&#x72;&#x63;&#x68;',
 			'icon-attach' : '&#x61;&#x74;&#x74;&#x61;&#x63;&#x68;'
 		},
 		els = document.getElementsByTagName('*'),
