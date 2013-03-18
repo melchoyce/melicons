@@ -11,7 +11,6 @@ window.onload = function() {
 			'icon-up' : '&#x75;&#x70;',
 			'icon-trash' : '&#x74;&#x72;&#x61;&#x73;&#x68;',
 			'icon-star' : '&#x73;&#x74;&#x61;&#x72;',
-			'icon-save' : '&#x73;&#x61;&#x76;&#x65;',
 			'icon-right' : '&#x72;&#x69;&#x67;&#x68;&#x74;',
 			'icon-pencil' : '&#x65;&#x64;&#x69;&#x74;',
 			'icon-menu' : '&#x6d;&#x65;&#x6e;&#x75;',
@@ -26,7 +25,9 @@ window.onload = function() {
 			'icon-check' : '&#x63;&#x68;&#x65;&#x63;&#x6b;',
 			'icon-chat' : '&#x63;&#x68;&#x61;&#x74;',
 			'icon-cancel' : '&#x63;&#x61;&#x6e;&#x63;&#x65;&#x6c;',
-			'icon-add' : '&#x61;&#x64;&#x64;'
+			'icon-add' : '&#x61;&#x64;&#x64;',
+			'icon-save' : '&#x73;&#x61;&#x76;&#x65;',
+			'icon-attach' : '&#x61;&#x74;&#x74;&#x61;&#x63;&#x68;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, html, c, el;
